@@ -45,7 +45,7 @@ python-dateutil==2.6.0
 pytz==2016.10
 PyYAML==3.12
 raven==5.32.0
-redis==2.10.5
+redis==4.5.3
 regex==2017.2.8
 requests-oauthlib==0.8.0
 rsa==3.4.2
